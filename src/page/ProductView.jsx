@@ -2,7 +2,7 @@ import CustomApi from "../api"
 import { Link, useLoaderData } from "react-router-dom";
 import Filter from "../components/Filter";
 import CardProduct from "../components/CardProduct";
-import Pagination from "../components/PAgination";
+import Pagination from "../components/Pagination";
 import { BsPlus } from "react-icons/bs";
 import { useSelector } from "react-redux";
 
