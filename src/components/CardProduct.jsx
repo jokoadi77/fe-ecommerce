@@ -39,7 +39,7 @@ const CardProduct = ({item, user}) => {
     )}
     <h2 className="card-title">
       {item.name}
-      <div className="badge bg-red-500 text-white">NEW</div>
+      
     </h2>
     <p className="text-accent text-lg">{priceFormat(item.price)}</p>
     
