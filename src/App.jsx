@@ -2,7 +2,7 @@ import {createBrowserRouter, RouterProvider} from 'react-router-dom'
 
 
 //Component
-import AboutView from './page/aboutView.jsx'
+import AboutView from './page/AboutView'
 import CartView from './page/cartView'
 import HomeView from './page/HomeView'
 import OrderView from './page/OrderView'
